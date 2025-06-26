@@ -3,6 +3,7 @@
 Dans le cadre de l’examen de la Session Normale, nous avons réalisé un projet, qui est la conception d’un mini-site de présentaion d’entreprise en utilisant les langages HTML/CSS, JS ainsi que l’outil GIT pour l’intégration de chaque partie.
 Etapes Suivies
 Voici ci-dessous les différentes éapes suivies pour la realisation de ce projet accompagné des captures d’érans de chaque commande.
+
 **1.	Création et initialisation du répositoire en ligne**
 
 Le depot a été créé en faisant tout d’abord un cd vers le dossier du projet, et ensuite un git init suivi d’un git remote add origin <url du depot>.Un fichier README.md a été créé avec la commande touch README.md puis nous avons fait la commande git add . suivi d’un git commit –m  ‘‘Ajout du README ’’ et d’un git push –u origin main
