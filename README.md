@@ -1,7 +1,9 @@
 **CONCEPTION D'UN MINI-SITE DE PRESENTATION POUR UNE ENTREPRISE**
 
 Dans le cadre de l’examen de la Session Normale, nous avons réalisé un projet, qui est la conception d’un mini-site de présentaion d’entreprise en utilisant les langages HTML/CSS, JS ainsi que l’outil GIT pour l’intégration de chaque partie.
-Etapes Suivies
+
+**Etapes Suivies**
+
 Voici ci-dessous les différentes éapes suivies pour la realisation de ce projet accompagné des captures d’érans de chaque commande.
 
 **1.	Création et initialisation du répositoire en ligne**
