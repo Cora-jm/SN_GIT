@@ -29,6 +29,7 @@ La branche pour les tests, test/frontend a été crée en utilisant la commande 
 La branche dev a été créée avec la commande  git checkout –b dev. L’intégration globale a été réalisée, ensuite la fusion des fichiers avec les commandes git pull  et git merge pour la branche test/frontend ainsi que le git push pour pousse la branche comme illustrer ci-dessous
  
 **7.	Finalisation du Projet**
+
 On a accédé à la branche main avec la commande  git checkout main. L’intégration globale a été réalisée, ensuite la fusion des fichiers avec les commandes git pull  et git merge pour la branche dev ainsi que le git push pour pousser la branche vers le depot comme illustrer ci-dessous
  
 
